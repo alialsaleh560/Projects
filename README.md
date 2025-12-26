@@ -177,7 +177,7 @@ Status: QUARANTINED
 
 ## 🎥 Demo Video
 
-[Watch 5-minute demonstration](https://youtu.be/your-video-link)
+[Watch 5-minute demonstration](https://youtu.be/uwr6PWY2vFA)
 
 ## 🔐 Security Considerations
 
