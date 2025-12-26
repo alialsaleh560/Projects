@@ -169,12 +169,6 @@ Network IOCs:
 Status: QUARANTINED
 ```
 
-### DynamoDB Results
-![DynamoDB](screenshots/dynamodb-results.png)
-
-### CloudWatch Dashboard
-![Dashboard](screenshots/cloudwatch-dashboard.png)
-
 ## 🎥 Demo Video
 
 [Watch 5-minute demonstration](https://youtu.be/uwr6PWY2vFA)
@@ -236,6 +230,7 @@ MIT License - See [LICENSE](LICENSE) for details
 - Email: alsalehali313@gmail.com
 
 ---
+## do not forget to check out the images
 
 ⭐ **If you found this project useful, please star the repository!**
 
